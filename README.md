@@ -38,6 +38,7 @@
 - HTML5
 - CSS3  
 - Javascript
+- Typescript
 - React JS
 - Tailwind
 - Bootstrap
@@ -45,5 +46,6 @@
 - Diseño UX / UI
 - Diseño de interfaces
 - Diseño enfocado a la experiencia de usuario
+- Wordpress (A cursar en diciembre)
 
 
