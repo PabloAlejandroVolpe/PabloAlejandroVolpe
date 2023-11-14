@@ -23,9 +23,7 @@
     ¡Bienvenido a mi perfil! Soy un entusiasta de la tecnología y me encanta aprender nuevas cosas. Aquí encontrarás proyectos interesantes y más.
   </span>
 </p>
-
-
-<div align="center">
+</div>
 
 ## Tecnologias que manejo
 
