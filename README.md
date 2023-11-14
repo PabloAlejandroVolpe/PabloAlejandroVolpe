@@ -16,10 +16,10 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu_usuario/)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=flat-square&logo=github)](https://github.com/tu_usuario)
-[![Facebook](https://img.shields.io/badge/Facebook-Perfil-blue?style=flat-square&logo=facebook)](https://www.facebook.com/tu_usuario)
-[![Instagram](https://img.shields.io/badge/Instagram-Perfil-pink?style=flat-square&logo=instagram)](https://www.instagram.com/tu_usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablo-volpe-220a37209/)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=flat-square&logo=github)](https://github.com/PabloAlejandroVolpe)
+[![Facebook](https://img.shields.io/badge/Facebook-Perfil-blue?style=flat-square&logo=facebook)](https://www.facebook.com/pablo.volpee/)
+[![Instagram](https://img.shields.io/badge/Instagram-Perfil-pink?style=flat-square&logo=instagram)](https://www.instagram.com/pablo.volpee/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-brightgreen?style=flat-square&logo=whatsapp)](https://wa.me/tunumerodetelefono)
 
 ---
