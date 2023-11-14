@@ -27,4 +27,17 @@
 
 <div align="center">
 
+## Tecnologias que manejo
+
+1. HTML5
+2. CSS3  
+3. Javascript
+4. React JS
+5. Tailwind
+6. Bootstrap
+7. Figma
+8. Diseño UX / UI
+9. Diseño de interfaces
+10. Diseño enfocado a la experiencia de usuario
+
 
