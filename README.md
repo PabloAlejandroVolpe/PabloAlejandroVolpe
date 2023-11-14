@@ -33,7 +33,7 @@
 </p>
 </div>
 
-## Tecnologias
+## Tecnologias, Librerias y Herramientas
 
 - HTML5
 - CSS3  
