@@ -34,7 +34,7 @@
 
 ## Tecnologias, Librerias y Herramientas
 
-- HTML5
+-![HTML5](https://cdn.pixabay.com/photo/2016/11/19/22/25/html5-1841458_1280.png)
 - CSS3  
 - Javascript
 - Typescript
