@@ -46,6 +46,6 @@
 - Diseño de interfaces
 - Diseño enfocado a la experiencia de usuario
 - Patrones de diseño
-- Wordpress (A cursar en diciembre)
+- Wordpress 
 
 
